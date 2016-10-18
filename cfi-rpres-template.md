@@ -1,0 +1,43 @@
+Learning Analytics @ OLL
+========================================================
+author: Jasper Ginn
+date: 17/10/2016
+autosize: true
+css: css/style.css
+font-import: http://fonts.googleapis.com/css?family=Open+Sans
+font-family: 'Open Sans'
+transition: linear
+
+<span class="footer">
+  <img class="logo" src="CFI_Logo_Black.png">
+  <img class="logo" src="universiteitleiden.png" style="padding-bottom:5px">
+</span>
+
+Slide 1
+========================================================
+
+* List. Thing 1
+
+* List. Thing 2
+
+<span class="footer">
+  <img class="logo" src="CFI_Logo_Black.png">
+  <img class="logo" src="universiteitleiden.png" style="padding-bottom:5px">
+</span>
+
+Main slide 1
+========================================================
+type: headerslide
+
+This is a section slide. It's type is 'headerslide'
+
+<span class="footer">
+  <img class="logo" src="CFI_Logo_Black.png">
+  <img class="logo" src="universiteitleiden.png" style="padding-bottom:5px">
+</span>
+
+Final slide
+========================================================
+title: false
+
+<div><img src="CFI_Logo_Big.png" class="mainpanel" style="padding-top:90px"></div>
